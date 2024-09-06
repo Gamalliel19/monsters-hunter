@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Drakenblight",
+      "imageUrl": "https://thumbs.dreamstime.com/b/vector-cartoon-dragon-monster-halloween-black-monster-waving-isolated-tiny-wings-character-his-hand-furry-illustration-73942104.jpg",
+      "type": "Fire Dragon",
+      "height": "6 meters",
+      "weight": "500 kilograms",
+      "habitat": "Mountainous Regions",
+      "behavior": "Aggressive towards intruders, territorial",
+      "spawn_time": "Night, during volcanic activity",
+      "lore": "Legend has it that Drakenblight was born from a meteorite that struck the mountains centuries ago.",
+      "interactions": "Preys on smaller creatures like Wyverns",
+      "sound": "Deep, resonating growl",
+      "latitude": 0.1202020,
+      "longitude": 109.2020202
+    },
+    {
+      "name": "Frostfang",
+      "imageUrl": "https://thumbs.dreamstime.com/z/monster-blue-silhouette-cute-cartoon-kawaii-scary-funny-character-baby-collection-crazy-eyes-fang-tooth-tongue-hands-happy-154669062.jpg",
+      "type": "Ice Wolf",
+      "height": "2 meters",
+      "weight": "150 kilograms",
+      "habitat": "Snowy Forests",
+      "behavior": "Pack mentality, protective of its territory",
+      "spawn_time": "Winter months, early mornings",
+      "lore": "The Frostfang is believed to have descended from ancient wolves that once ruled the frozen tundras.",
+      "interactions": "Leads packs of Ice Wolves, hunts in groups",
+      "sound": "Howling winds mixed with a wolf's cry",
+      "latitude": 0.892928,
+      "longitude": 109.2020202
+    },
+    {
+      "name": "Terravore",
+      "imageUrl": "https://thumbs.dreamstime.com/z/cute-monster-happy-halloween-head-face-tooth-fang-black-silhouette-monsters-cartoon-kawaii-funny-boo-character-childish-cute-290402904.jpg",
+      "type": "Earth Golem",
+      "height": "4 meters",
+      "weight": "2 tons",
+      "habitat": "Caves, Underground",
+      "behavior": "Slow-moving, only aggressive when provoked",
+      "spawn_time": "Anytime, typically near cave entrances",
+      "lore": "Terravores are ancient guardians of the earth, formed from rocks and soil.",
+      "interactions": "Ignores most creatures unless threatened",
+      "sound": "Grinding stones and deep rumbles",
+      "latitude": 0.93939,
+      "longitude": 109.2020202
+    }
+  ]
+  

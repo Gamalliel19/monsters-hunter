@@ -25,3 +25,22 @@ body {
     text-wrap: balance;
   }
 }
+
+header{
+  height: 70px;
+  border-bottom: 1px solid #ededed;
+}
+
+header nav{
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
+}
+
+header nav ul {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
